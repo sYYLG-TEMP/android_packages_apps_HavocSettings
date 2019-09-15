@@ -18,6 +18,13 @@
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
     android:title="@string/havoc_settings_title" >
 
+        <!-- About Donate -->
+        <Preference
+            android:key="about_donate"
+            android:title="@string/about_donate"
+            android:fragment="com.havoc.settings.fragments.Donate"
+            android:icon="@drawable/havoc_developer"/>
+
         <!-- Status Bar -->
         <Preference
             android:key="statusbar_category"

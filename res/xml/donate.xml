@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/about_title"
+    xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+
+    <PreferenceCategory
+        android:key="developer_category"
+        android:title="@string/donate_title">
+
+        <Preference
+            android:title="@string/donate_1"
+            android:icon="@drawable/havoc_developer">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/2407946"/>
+        </Preference>
+
+        <Preference
+            android:title="@string/donate_2"
+            android:icon="@drawable/havoc_developer">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/2412823"/>
+        </Preference>
+
+        <Preference
+            android:title="@string/donate_3"
+            android:icon="@drawable/havoc_developer">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/2133027"/>
+        </Preference>
+
+        <Preference
+            android:title="@string/donate_4"
+            android:icon="@drawable/havoc_developer">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/2830906"/>
+        </Preference>
+
+        <Preference
+            android:title="@string/donate_5"
+            android:icon="@drawable/havoc_developer">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data=""/>
+        </Preference>
+
+        <Preference
+            android:title="@string/donate_6"
+            android:icon="@drawable/havoc_developer">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/2312236"/>
+        </Preference>
+
+        <Preference
+            android:title="@string/donate_7"
+            android:icon="@drawable/havoc_developer">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/1443564"/>
+        </Preference>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

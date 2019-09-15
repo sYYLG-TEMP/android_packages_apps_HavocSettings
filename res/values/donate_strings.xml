@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="about_donate" translatable="false">关于捐赠</string>
+
+    <string name="donate_title" translatable="false">感谢大家的支持</string>
+    <string name="donate_1" translatable="false">略略略木头</string>
+    <string name="donate_2" translatable="false">啊我是米粉啊</string>
+    <string name="donate_3" translatable="false">推特捷哥</string>
+    <string name="donate_4" translatable="false">LiYangKA</string>
+    <string name="donate_5" translatable="false">夏沫</string>
+    <string name="donate_6" translatable="false">魏无羡吖</string>
+    <string name="donate_7" translatable="false">哩小蛋</string>
+</resources>
