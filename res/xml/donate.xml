@@ -145,6 +145,14 @@
         </Preference>
 
         <Preference
+            android:title="@string/donate_18"
+            android:icon="@drawable/havoc_developer">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/1608787"/>
+        </Preference>
+
+        <Preference
             android:title="@string/donate_me"
             android:icon="@drawable/havoc_donate">
             <intent
