@@ -121,6 +121,30 @@
         </Preference>
 
         <Preference
+            android:title="@string/donate_15"
+            android:icon="@drawable/havoc_developer">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/1320311"/>
+        </Preference>
+
+        <Preference
+            android:title="@string/donate_16"
+            android:icon="@drawable/havoc_developer">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/751374"/>
+        </Preference>
+
+        <Preference
+            android:title="@string/donate_17"
+            android:icon="@drawable/havoc_developer">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/1809499"/>
+        </Preference>
+
+        <Preference
             android:title="@string/donate_me"
             android:icon="@drawable/havoc_donate">
             <intent
